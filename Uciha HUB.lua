@@ -109,7 +109,7 @@ function Blacklib:Window()
     BlackImage.BackgroundTransparency = 1.000
     BlackImage.Position = UDim2.new(0, 3, 0, 3)
     BlackImage.Size = UDim2.new(0, 25, 0, 25)
-    BlackImage.Image = "rbxassetid://284402752"
+    BlackImage.Image = "rbxassetid://8825667923"
     BlackImage.ImageColor3 = Color3.fromRGB(0,220,0)
     
     BlackTitle.Name = "BlackTitle"
